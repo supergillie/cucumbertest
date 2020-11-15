@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Setup project" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-15T12:02:36" hostname="Peters-MacBook-Pro.local" time="0.035">
+  <properties/>
+  <testcase name="Execute hello world" classname="Setup project" time="0.035"/>
+  <system-out><![CDATA[
+Scenario: Execute hello world                                             ?[90m# cucumber/helloworld.feature:6?[0m
+projektet startar
+  ?[32mGiven ?[0m?[32mI have correct project?[0m                                            ?[90m# cucumber.helloWorldTest.i_have_correct_project()?[0m
+detta är ett test
+  ?[32mWhen ?[0m?[32mI write Hello World Cucumber test?[0m                                  ?[90m# cucumber.helloWorldTest.i_write_Hello_World_Cucumber_test()?[0m
+Hello World
+  ?[32mThen ?[0m?[32mI should be able to run it an see ?[0m?[32m?[1m"Hello World"?[0m?[32m printed on screen.?[0m ?[90m# cucumber.helloWorldTest.i_should_be_able_to_run_it_an_see_printed_on_screen(java.lang.String)?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

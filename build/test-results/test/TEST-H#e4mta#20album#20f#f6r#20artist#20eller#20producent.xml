@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Hämta album för artist eller producent" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-11-15T12:02:36" hostname="Peters-MacBook-Pro.local" time="0.263">
+  <properties/>
+  <testcase name="Mata in namn få fram 20 skivor" classname="Hämta album för artist eller producent" time="0.263">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[
+Scenario: Mata in namn få fram 20 skivor                       ?[90m# cucumber/discmaskin.feature:6?[0m
+  ?[33mGiven ?[0m?[33mJag har en prompt?[0m                                      ?[90m# null?[0m
+  ?[33mWhen ?[0m?[33mJag skriver in ett namn?[0m                                 ?[90m# null?[0m
+  ?[33mThen ?[0m?[33mBorde jag få tillbaka de 20 första skivorna av artisten?[0m ?[90m# null?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
